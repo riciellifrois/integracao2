@@ -1,0 +1,43 @@
+{"servicos": [
+  {
+    "codServico": "1",
+    "descricaoServico": "Teste Servico",
+    "codProduto": 0,
+    "codModelo": 0,
+    "descricaoModelo": "teste modelo",
+    "tempo": 1
+  },
+  {
+    "codServico": "E2020",
+    "descricaoServico": "Teste Servico E2020",
+    "codProduto": 0,
+    "codModelo": 0,
+    "descricaoModelo": "teste modelo",
+    "tempo": 1
+  },
+  {
+    "codServico": "E0203",
+    "descricaoServico": "Teste Servico E0203",
+    "codProduto": 0,
+    "codModelo": 0,
+    "descricaoModelo": "teste modelo",
+    "tempo": 1.5
+  },
+  {
+    "codServico": "AG000",
+    "descricaoServico": "Teste Servico AG000",
+    "codProduto": 0,
+    "codModelo": 0,
+    "descricaoModelo": "teste modelo",
+    "tempo": 2
+  },
+  {
+    "codServico": "M0051",
+    "descricaoServico": "Teste Servico M0051",
+    "codProduto": 0,
+    "codModelo": 0,
+    "descricaoModelo": "teste modelo",
+    "tempo": 2.5
+  }
+   ]
+}
