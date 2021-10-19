@@ -39,5 +39,13 @@
     "descricaoModelo": "teste modelo",
     "tempo": 2.5
   }
-   ]
+   ],
+ "servicoResumo":[
+  {
+    "codServico": "1",
+    "descricaoServico": "Teste",
+    "codSetor": "1",
+    "descricaoSetor": "teste"
+  }
+   ],
 }
