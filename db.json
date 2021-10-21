@@ -48,5 +48,56 @@
          "codSetor":"1",
          "descricaoSetor":"teste"
       }
+   ],
+   "os":[
+      {
+         "os":{
+            "idOs":0,
+            "numeroOs":0,
+            "tipoOs":"string",
+            "dataAbertura":"2021-10-21T09:36:39.360Z",
+            "dataCancelamento":"2021-10-21T09:36:39.360Z",
+            "dataEncerramento":"2021-10-21T09:36:39.360Z",
+            "situacao":"A",
+            "codConsultor":0,
+            "nomeConsultor":"string",
+            "km":0
+         },
+         "cliente":{
+            "idCliente":0,
+            "nomeCliente":"string",
+            "dddTelefone":0,
+            "numTelefone":0,
+            "dddCelular":0,
+            "numCelular":0,
+            "tipoPessoa":"F",
+            "cpfCnpj":"string",
+            "email":"string",
+            "endereco":"string",
+            "complemento":"string",
+            "bairro":"string",
+            "cep":"string",
+            "municipio":"string",
+            "aceiteLGPD":true,
+            "tipoAceiteLGPD":"string",
+            "dataAceiteLGPD":"2021-10-21T09:36:39.360Z"
+         },
+         "veiculo":{
+            "placa":"string",
+            "chassi":"string",
+            "codMarca":0,
+            "desMarca":"string",
+            "codFamilia":0,
+            "desFamilia":"string",
+            "codModelo":0,
+            "desModelo":"string",
+            "anoFabricacao":"2021-10-21T09:36:39.360Z",
+            "anoModelo":"2021-10-21T09:36:39.360Z",
+            "desCorExt":"string",
+            "ultimoKm":0,
+            "dataVenda":"2021-10-21T09:36:39.360Z",
+            "possuiContrato":"S"
+         }
+      }
    ]
 }
