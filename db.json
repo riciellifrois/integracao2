@@ -55,9 +55,9 @@
             "idOs":0,
             "numeroOs":0,
             "tipoOs":"string",
-            "dataAbertura":"2021-10-21T09:36:39.360Z",
-            "dataCancelamento":"2021-10-21T09:36:39.360Z",
-            "dataEncerramento":"2021-10-21T09:36:39.360Z",
+            "dataAbertura":"2021-10-21T09:35:39.360Z",
+            "dataCancelamento":"2021-10-21T09:34:39.360Z",
+            "dataEncerramento":"2021-10-21T09:38:39.360Z",
             "situacao":"A",
             "codConsultor":0,
             "nomeConsultor":"string",
@@ -80,7 +80,7 @@
             "municipio":"string",
             "aceiteLGPD":true,
             "tipoAceiteLGPD":"string",
-            "dataAceiteLGPD":"2021-10-21T09:36:39.360Z"
+            "dataAceiteLGPD":"2021-10-21T09:37:39.360Z"
          },
          "veiculo":{
             "placa":"string",
