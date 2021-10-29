@@ -1,4 +1,10 @@
 {
+   "setorvendas":[
+      {
+         "codSetor":0,
+         "desSetor":"string"
+      }
+   ],
    "servicos":[
       {
          "codServico":"1",
