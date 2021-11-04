@@ -1,4 +1,14 @@
 {
+   "tipos":[
+      {
+         "codTipoOs":"string",
+         "siglaTipoOs":"string",
+         "desTipoOs":"string",
+         "valorHora":0,
+         "classificacaoOs":"C",
+         "tipoPrecoPeca":"V"
+      }
+   ],
    "setorvendas":[
       {
          "codSetor":0,
