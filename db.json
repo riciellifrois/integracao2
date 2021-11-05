@@ -139,42 +139,5 @@
             "possuiContrato":"S"
          }
       }
-   ],
-   "osdetalhes" : [
-  {
-    "os": {
-      "numeroOs": 0,
-      "idOs": 0,
-      "tipoOs": "string",
-      "reclamacao": [
-        {
-          "descricao": "string",
-          "codReclamacao": 0,
-          "servico": [
-            {
-              "codServico": "string",
-              "descricao": "string",
-              "precoVenda": 0,
-              "tempoPadrao": 0,
-              "produtos": [
-                {
-                  "codProduto": 0,
-                  "descricao": "string",
-                  "codFornecedor": 0,
-                  "nomeFornecedor": "string",
-                  "unidade": "string",
-                  "precoPublico": 0,
-                  "precoGarantia": 0,
-                  "precoCusto": 0,
-                  "precoCustoReposicao": 0,
-                  "quantidade": 0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  }
-]   
+   ]
 }
