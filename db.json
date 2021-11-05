@@ -142,8 +142,8 @@
    ],
    "os_detalhes" : [
   {
-    "numeroOs": 0,
     "os": {
+      "numeroOs": 0,
       "idOs": 0,
       "tipoOs": "string",
       "reclamacao": [
