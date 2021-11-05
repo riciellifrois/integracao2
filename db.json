@@ -19,9 +19,25 @@
    ],
    "setorvendas":[
       {
-         "codSetor":0,
-         "desSetor":"string"
-      }
+         "codSetor":1,
+         "desSetor":"Tele-Pecas"
+      },
+      {
+         "codSetor":2,
+         "desSetor":"Balcao"
+      },      
+      {
+         "codSetor":3,
+         "desSetor":"Funilaria/Pintura"
+      },         
+      {
+         "codSetor":4,
+         "desSetor":"Mecanica"
+      },        
+      {
+         "codSetor":5,
+         "desSetor":"Acessorios"
+      }          
    ],
    "servicos":[
       {
