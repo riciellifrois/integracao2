@@ -3,16 +3,16 @@
       {
          "codTipoOs":"V1",
          "siglaTipoOs":"V1",
-         "desTipoOs":"V1 - Clientes",
-         "valorHora":0,
+         "desTipoOs":"Clientes",
+         "valorHora":1,
          "classificacaoOs":"C",
-         "tipoPrecoPeca":"P"
+         "tipoPrecoPeca":"V"
       },
       {
          "codTipoOs":"V2",
          "siglaTipoOs":"V2",
-         "desTipoOs":"V2 - Garantia",
-         "valorHora":0,
+         "desTipoOs":"Garantia",
+         "valorHora":1,
          "classificacaoOs":"C",
          "tipoPrecoPeca":"G"
       }
