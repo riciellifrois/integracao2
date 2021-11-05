@@ -1,13 +1,22 @@
 {
    "tipos":[
       {
-         "codTipoOs":"string",
-         "siglaTipoOs":"string",
-         "desTipoOs":"string",
+         "codTipoOs":"V1",
+         "siglaTipoOs":"V1",
+         "desTipoOs":"V1 - Clientes",
          "valorHora":0,
          "classificacaoOs":"C",
-         "tipoPrecoPeca":"V"
-      }
+         "tipoPrecoPeca":"P"
+      },
+      {
+         "codTipoOs":"V2",
+         "siglaTipoOs":"V2",
+         "desTipoOs":"V2 - Garantia",
+         "valorHora":0,
+         "classificacaoOs":"C",
+         "tipoPrecoPeca":"G"
+      }, 
+     
    ],
    "setorvendas":[
       {
