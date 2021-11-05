@@ -140,7 +140,7 @@
          }
       }
    ],
-   "os/detalhes" : [
+   "os_detalhes" : [
   {
     "numeroOs": 0,
     "os": {
