@@ -118,6 +118,7 @@
             "bairro": "Centro",
             "cep": "130089100",
             "municipio": "Campinas",
+            "estado": "SP",
             "aceiteLGPD": true,
             "tipoAceiteLGPD": "aceiteLGPD",
             "dataAceiteLGPD": "2021-10-21T09:37:39.360Z"
